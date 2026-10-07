@@ -1,0 +1,8 @@
+{
+  "name": "mesa-de-ayuda",
+  "version": "1.0.0",
+  "description": "API REST de mesa de ayuda técnica (Caso 3)",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
