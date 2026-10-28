@@ -15,8 +15,8 @@
 API REST hecha con Node.js y Express para registrar y dar seguimiento a solicitudes de soporte técnico (tickets), con prioridad, estado y técnico asignado. Los datos se guardan en memoria, por lo que se reinician cuando el servidor se reinicia.
 
 ## Enlaces
-- **URL pública (Render):** _pegar aquí_
-- **Repositorio (GitHub):** https://github.com/maria3482-debug/mesa-de-ayuda
+- **URL pública (Render):** https://mesa-de-ayuda-wv43.onrender.com
+- **Repositorio (GitHub):** https://stackblitz.com/edit/github-aq5tagvo?file=public%2Findex.html
 
 ## Cómo ejecutarlo
 ```bash
